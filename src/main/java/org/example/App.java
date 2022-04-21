@@ -3,6 +3,6 @@ package org.example;
 public class App {
 
   public static void main(String[] args) {
-    System.out.println("Advanced Programming, testRepo");
+    System.out.println("Advanced Programming, testing upload");
   }
 }
